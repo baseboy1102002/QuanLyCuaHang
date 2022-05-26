@@ -1,0 +1,12 @@
+F01, Hamburger, 17500, 700
+D01, Sting dau, 13200, 1000
+D12, 7up chanh, 11600, 1000
+F11, Snack khoai tay, 8100, 1200
+F12, Banh mi cha gio, 21600, 200
+F22, Thit heo quay, 32000, 100
+D13, Nuoc coconut, 19000, 900
+F04, Muc kho, 29400, 800
+D22, Ca phe, 17000, 600
+F31, Ca vien chien, 14700, 210
+D09, Soda socola, 19500, 400
+F456, Mi cay, 21000, 350
